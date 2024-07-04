@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ArtiG907
+- 👋 Hi, I’m Bharti
 - 👀 I’m interested in ... UI/ UX
 - 🌱 I’m currently learning ... integrating user experience in my projects 
 - 💞️ I’m looking to collaborate on ... building better responsive interfaces 
-- 📫 How to reach me ... gupta22arti@gmail.com
+- 📫 How to reach me ... bharti1507@gmail.com
 - 😄 Pronouns: ... she /her
 
 
